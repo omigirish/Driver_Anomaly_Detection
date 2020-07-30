@@ -1,0 +1,13 @@
+pip install future
+pip install numpy
+pip install pygame
+pip install scipy
+pip install playsound
+pip install opencv-python
+pip install imutils
+pip install cmake
+conda install -c conda-forge dlib
+pip install scipy
+pip install pandas
+pip install ibm_db
+pip install db2
